@@ -2,6 +2,8 @@
 
 This game requires a single player controling 2 bars (top and bottom) which move together when the keys 'A' and 'D' are pressed. The motive of the game is to keep the ball in play from both ends. If the ball hits the top or the bottom edge, the game ends. Score is increased after every successful back and fourth motion of the ball.
 
+You can play the game using the link at the end.
+
 ## Technologies used
 * HTML 
 * CSS 
@@ -69,4 +71,4 @@ As it is said, "You are your biggest competition." , in this game the winner wil
 * VS computer mode
 
 ## Demo for the game 
-
+https://tusharwalia.github.io/TusharWalia-Ping-Pong-Game/
