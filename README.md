@@ -70,5 +70,5 @@ As it is said, "You are your biggest competition." , in this game the winner wil
 * Settings Panel
 * VS computer mode
 
-## Demo for the game 
+## You can play the game here
 https://tusharwalia.github.io/TusharWalia-Ping-Pong-Game/
